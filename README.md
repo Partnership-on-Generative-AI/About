@@ -12,9 +12,9 @@ The partnership primarily maintains a private **GitHub workspace** and Google Co
 
 ## Members
 
-Member | About
+Member | Partnership Intention
 --- | ---
-Humanitarian AI Meetup Groups | The Humanitarian AI meetup community links local groups in fifteen cities. Members discuss humanitarian applications of artificial intelligencre and work on volunteer projects.
+Humanitarian AI Meetup Groups | The Humanitarian AI meetup community links local groups in fifteen cities. Members discuss humanitarian applications of artificial intelligencre and work on volunteer projects. Through the partnershjip we hope to shorten the time it takes us to experiment with generative AI models. We're particular in helping fine-tune models and action transformers able to turn questions into database queries. We mainly bring to the table volunteers, expertise in IATI's open data sharing framework and a graph database storing an entire IATI corpos for member use.
 Omdena | Omdena provides the global community of AI engineers with a platform to gather and collaboratively build solutions to real-world problems.
 Data Friendly Space | 
 Crisis Ready | 
