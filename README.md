@@ -14,11 +14,11 @@ The partnership primarily maintains a private **GitHub workspace** and Google Co
 
 Member | Partnership Intention
 --- | ---
-Humanitarian AI Meetup Groups | The Humanitarian AI meetup community links local groups in fifteen cities. Members discuss humanitarian applications of artificial intelligencre and work on volunteer projects. Through the partnershjip we hope to shorten the time it takes us to experiment with generative AI models. We're particular in helping fine-tune models and action transformers able to turn questions into database queries. We mainly bring to the table volunteers, expertise in IATI's open data sharing framework and a graph database storing an entire IATI corpos for member use.
+Humanitarian AI Meetup Groups | The Humanitarian AI meetup community links local groups in fifteen cities. Members discuss humanitarian applications of artificial intelligence and work on volunteer projects. Through the partnershjip we hope to shorten the time it takes us to experiment with generative AI models. We're particular in helping fine-tune models and action transformers able to turn questions into database queries. We mainly bring to the table volunteers, expertise in IATI's open data sharing framework and a graph database storing an entire IATI corpos for member use.
 Omdena | Omdena provides the global community of AI engineers with a platform to gather and collaboratively build solutions to real-world problems.
-Data Friendly Space | 
-Crisis Ready | 
+Data Friendly Space | Data Friendly Space makes modern data systems and data science accessible to the humanitarian and development communities.
+Crisis Ready | CrisisReady is based at Harvard University and Direct Relief, and collaborates with academic partners, technology companies and response agencies around the world to embed data-driven decision-making into local disaster planning.
 
 ## Get Involved
 
-The Partnership is semi-private and geared towards streamlining collaborative contact and resource sharing between members. Access to resources is open to members and to new member applicants. **Contact**: team (at) humanitarianai.org to learn more and to get involved. 
+The Partnership is semi-private and geared towards streamlining collaborative contact and resource sharing between members. Access to resources is open to members and to new member applicants. **Contact**: team (at) pgai.dev to learn more and to get involved. 
