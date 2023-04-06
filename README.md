@@ -1,3 +1,5 @@
+![Partnership Logo](https://github.com/Partnership-on-Generative-AI/Workspace/blob/main/media/PSHeader.png)
+
 # Partnership on Generative AI for Humanitarian Applications
 
 The **Partnership on Generative AI for Humanitarian Applications** links humanitarian organizations and tech companies interested in uses of large language models for good. Members help one another scope projects, deploy models, troubleshoot code and carry out basic testing.
