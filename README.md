@@ -25,6 +25,13 @@ Crisis Ready | CrisisReady is based at Harvard University and Direct Relief, and
 Humanitarian AI Meetup Groups | The Humanitarian AI meetup community links local groups in fifteen cities. Members discuss humanitarian applications of artificial intelligence and work on volunteer projects.
 Omdena | Omdena provides the global community of AI engineers with a platform to gather and collaboratively build solutions to real-world problems.
 
+#### New Members
+
+Member | About
+--- | ---
+Zimmerman | Zimmerman builds tools that make data transparent, accessible and actionable for humanitarian actors.
+Premise Data | Premise crowdsources data collection for humanitarian and international development actors.
+
 
 ## Get Involved
 
