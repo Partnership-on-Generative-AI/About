@@ -4,13 +4,13 @@
 
 The **Partnership on Generative AI for Humanitarian Applications** links humanitarian organizations and tech companies interested in uses of large language models for good. Members help one another scope projects, deploy models, troubleshoot code and carry out basic testing.
 
-The partnership aims to help humanitarian actors overcome technical challenges associated with deploying sophisticated new generative AI models, speeding up applicational development through **collaboration** and **resource sharing**. Working through the partnership makes it easer for humanitarian actors to forge ties with generative AI players around humanitarian applications and around issues like trust, safety and security.
+The partnership aims to help humanitarian actors overcome technical challenges associated with deploying sophisticated new generative AI models, speeding up applicational development through **collaboration** and **resource sharing**.
 
 ## Resources
 
 The partnership provides members with direct channels to use to interface with one another and easily share resources, code, troubleshooting help and information on projects, technical needs and emerging concerns. 
 
-The partnership is lightweight and organized around the sharing and use of **GitHub** resources and **Jupyter** and **Google Colab** notebooks.
+The partnership is lightweight and organized around a private **GitHub** workspace.
 
 ## Members
 
