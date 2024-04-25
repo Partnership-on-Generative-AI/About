@@ -1,4 +1,4 @@
-![Partnership Logo](https://github.com/Partnership-on-Generative-AI/Workspace/blob/main/media/PSHeader.png)
+![Partnership Logo](https://storage.googleapis.com/pgai/PGAIHeader.png)
 
 # Partnership on Generative AI for Humanitarian Applications
 
