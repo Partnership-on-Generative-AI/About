@@ -20,6 +20,7 @@ The partnership links humanitarian organizations, tech companies and individual 
 
 Member | About
 --- | ---
+Open Collective Europe | The Partnership is a non-profit, open source initiative hosted by [Open Collective Europe](https://opencollective.com/pgai-collective)
 Data Friendly Space | Data Friendly Space makes modern data systems and data science accessible to the humanitarian and development communities.
 Crisis Ready | CrisisReady is based at Harvard University and Direct Relief, and collaborates with academic partners, technology companies and response agencies around the world to embed data-driven decision-making into local disaster planning.
 Humanitarian AI Meetup Groups | The Humanitarian AI meetup community links local groups in fifteen cities. Members discuss humanitarian applications of artificial intelligence and work on volunteer projects.
